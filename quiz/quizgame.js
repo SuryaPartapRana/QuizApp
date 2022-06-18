@@ -148,4 +148,3 @@ const incrementScore = num => {
     scoreText.innerText = score;
 };
 
-// console.log(questions[0]);
