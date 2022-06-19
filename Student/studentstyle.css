@@ -22,6 +22,8 @@ body {
   justify-content: center;
   margin-right: 10rem;
   margin-bottom: 10rem;
+  background-color: #541690;
+  border-radius: 20px;
 }
 
 .subjects {
@@ -50,8 +52,6 @@ body {
 }
 
 .preview {
-  background-color: #ffcc99;
-  color: #fff;
   padding: 30px;
   max-width: 250px;
 }
@@ -72,7 +72,7 @@ body {
 }
 .btn {
   margin: 0;
-  background-color: #ffcc99;
+  background-color: #FF8D29;
   border: 0;
   border-radius: 50px;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
@@ -104,7 +104,7 @@ body {
 .btn1 {
   border-radius: 20%;
   border: #fff;
-  background-color: #ffcc99;
+  background-color: #FF8D29;
   color: #fff;
   cursor: pointer;
   font-size: 16px;
@@ -121,7 +121,7 @@ body {
 
 .btn2 {
   border-radius: 20%;
-  background-color: #ffcc99;
+  background-color: #FF8D29;
   border: #fff;
   color: #fff;
   cursor: pointer;
